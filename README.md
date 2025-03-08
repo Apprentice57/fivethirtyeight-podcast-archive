@@ -2,7 +2,7 @@
 
 Fans of the old fivethirtyeight politics podcast may notice that the podcast feed only goes back to 2023, as it only contains the most recent 200 episodes.
 
-I have constructed a RSS feed that contains nearly all the episodes (4 are missing, see nerd stuff below) which is available at: <Github Raw RSS> . Copy and paste that URL into your favorite podcatcher, and enjoy. I recommend downloading the whole feed if it is even of slight interest in case ABC/Disney stop hosting the files.
+I have constructed a RSS feed that contains nearly all the episodes (4 are missing, see nerd stuff below) which is available at: https://raw.githubusercontent.com/Apprentice57/fivethirtyeight-podcast-archive/refs/heads/main/fivethirtyeight-podcast-archive.rss. Copy and paste that URL into your favorite podcatcher, and enjoy. I recommend downloading the whole feed if it is even of slight interest in case ABC/Disney stop hosting the files.
 
 You will need to use a podcatcher that allows you to enter a custom RSS feed URL.  Spotify in particular will not support this. I've had luck with this method with the following (but more should work):
 
