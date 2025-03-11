@@ -9,7 +9,7 @@
     <description>Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and "game-changers" every week.</description>
     <image>
       <url>https://megaphone.imgix.net/podcasts/eff766c2-63ae-11ea-9caa-8b87e9a0e007/image/i.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>FiveThirtyEight Politics</title>
+      <title>FiveThirtyEight Politics Archive</title>
       <link>https://fivethirtyeight.com/podcasts/</link>
     </image>
     <itunes:explicit>false</itunes:explicit>
@@ -20186,16 +20186,45 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 			<itunes:keywords><![CDATA[null]]></itunes:keywords>
 			<guid isPermaLink="false">http://www.espn.com/espnradio/podcast?id=14973277</guid>
 		</item>
+
+		<item> 
+			
+			<title>The Biggest Primary Polling Upset Ever</title>
+			
+			<itunes:author>ESPN</itunes:author>
+			<description>We convene an emergency podcast to talk about Bernie Sanders's victory in Michigan, and what it means for the Democratic race.</description>
+			<itunes:subtitle>We convene an emergency podcast to talk about Bernie Sanders's victory in Michigan, and what it means for the Democratic race.</itunes:subtitle>
+			<itunes:summary>We convene an emergency podcast to talk about Bernie Sanders's victory in Michigan, and what it means for the Democratic race.</itunes:summary>
+			<itunes:title>The Biggest Primary Polling Upset Ever</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+
+			
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP8509769887.mp3" length="0" type="audio/mp3" />
+			
+			
+			<pubDate><![CDATA[Wed, 9 Mar 2016 00:00:00 PDT]]></pubDate>
+			
+			<category><![CDATA[News]]></category>
+			<!--
+			<itunes:category text="News">
+				<itunes:category text="Sports" />
+			</itunes:category>
+			-->
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration><![CDATA[18:59]]></itunes:duration>
+			<itunes:keywords><![CDATA[null]]></itunes:keywords>
+			<guid isPermaLink="false">https://fivethirtyeight.com/features/elections-podcast-the-biggest-primary-polling-upset-ever/</guid>
+		</item>
 		
 		<item>
 			
-			<title>Elections Podcast: Cruz Rising</title>
+			<title>Cruz Rising</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>Our elections podcast crew discusses last weekend’s primaries, Republican Ted Cruz’s rise in the polls and whether Donald Trump’s “ceiling” is a real thing. Plus, what to expect from the Democratic and Republican primaries Tuesday.</description>
-			<itunes:subtitle>Our elections podcast crew discusses last weekend’s primaries, Republican Ted Cruz’s rise in the polls and whether Donald Trump’s “ceiling” is a real thing. Plus, what to expect from the Democratic and Republican primaries Tuesday.</itunes:subtitle>
-			<itunes:summary>Our elections podcast crew discusses last weekend’s primaries, Republican Ted Cruz’s rise in the polls and whether Donald Trump’s “ceiling” is a real thing. Plus, what to expect from the Democratic and Republican primaries Tuesday.</itunes:summary>
-			<itunes:title>Elections Podcast: Cruz Rising</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Cruz Rising</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20215,16 +20244,45 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 			<itunes:keywords><![CDATA[null]]></itunes:keywords>
 			<guid isPermaLink="false">https://fivethirtyeight.com/features/elections-podcast-cruz-rising/</guid>
 		</item>
+
+		<item> 
+			
+			<title>On The Media On Predictions</title>
+			
+			<itunes:author>ESPN</itunes:author>
+			<description>From our friends at OTM, an hour-long show (featuring Nate Silver) about the world of forecasting. Be sure to subscribe to the On The Media podcast if you don't already!</description>
+			<itunes:subtitle>From our friends at OTM, an hour-long show (featuring Nate Silver) about the world of forecasting. Be sure to subscribe to the On The Media podcast if you don't already!</itunes:subtitle>
+			<itunes:summary>From our friends at OTM, an hour-long show (featuring Nate Silver) about the world of forecasting. Be sure to subscribe to the On The Media podcast if you don't already!</itunes:summary>
+			<itunes:title>On The Media On Predictions</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+
+			
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2874040115.mp3" length="0" type="audio/mp3" />
+			
+			
+			<pubDate><![CDATA[Sat, 5 Mar 2016 00:00:00 PDT]]></pubDate>
+			
+			<category><![CDATA[News]]></category>
+			<!--
+			<itunes:category text="News">
+				<itunes:category text="Sports" />
+			</itunes:category>
+			-->
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration><![CDATA[51:46]]></itunes:duration>
+			<itunes:keywords><![CDATA[null]]></itunes:keywords>
+			<guid isPermaLink="false">https://espndeportes.espn.com/radio/play/_/id/14906202</guid>
+		</item>
 		
 		<item>
 			
-			<title>Elections Podcast: Breaking Down Super Tuesday</title>
+			<title>Breaking Down Super Tuesday</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>After a long night of watching Super Tuesday results, our elections podcast crew convened a late-night session to discuss what we learned and what comes next.</description>
-			<itunes:subtitle>After a long night of watching Super Tuesday results, our elections podcast crew convened a late-night session to discuss what we learned and what comes next.</itunes:subtitle>
-			<itunes:summary>After a long night of watching Super Tuesday results, our elections podcast crew convened a late-night session to discuss what we learned and what comes next.</itunes:summary>
-			<itunes:title>Elections Podcast: Breaking Down Super Tuesday</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Breaking Down Super Tuesday</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20247,13 +20305,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: Super Tuesday Is Here</title>
+			<title>Super Tuesday Is Here</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>Our elections podcast crew previews Super Tuesday and discusses whether Donald Trump and Hillary Clinton are locks to win the Republican and Democratic nominations, respectively. Be sure to read our guides — Republican and Democratic — to Super Tuesday.</description>
-			<itunes:subtitle>Our elections podcast crew previews Super Tuesday and discusses whether Donald Trump and Hillary Clinton are locks to win the Republican and Democratic nominations, respectively. Be sure to read our guides — Republican and Democratic — to Super Tuesday.</itunes:subtitle>
-			<itunes:summary>Our elections podcast crew previews Super Tuesday and discusses whether Donald Trump and Hillary Clinton are locks to win the Republican and Democratic nominations, respectively. Be sure to read our guides — Republican and Democratic — to Super Tuesday.</itunes:summary>
-			<itunes:title>Elections Podcast: Super Tuesday Is Here</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Super Tuesday Is Here</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20276,13 +20334,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: Racism Among Trump’s Supporters</title>
+			<title>That Trump Supporter Polling</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>Our elections podcast convenes a special edition of “good use of polling or bad use of polling?” to discuss some recent data suggesting that many of Donald Trump’s supporters are intolerant and racist.</description>
-			<itunes:subtitle>Our elections podcast convenes a special edition of “good use of polling or bad use of polling?” to discuss some recent data suggesting that many of Donald Trump’s supporters are intolerant and racist.</itunes:subtitle>
-			<itunes:summary>Our elections podcast convenes a special edition of “good use of polling or bad use of polling?” to discuss some recent data suggesting that many of Donald Trump’s supporters are intolerant and racist.</itunes:summary>
-			<itunes:title>Elections Podcast: Racism Among Trump’s Supporters</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>That Trump Supporter Polling</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20305,13 +20363,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: A Round Of Candidate Buy/Sell/Hold</title>
+			<title>A Round Of Buy/Sell/Hold</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>Last weekend’s election results from Nevada and South Carolina were not entirely surprising, but they provided some clarity about where the Democratic and Republican presidential races stand heading toward Super Tuesday. Our elections podcast team uses the betting market odds to play a round of “buy/sell/hold” and gauge who we think is likely to prevail and why.</description>
-			<itunes:subtitle>Last weekend’s election results from Nevada and South Carolina were not entirely surprising, but they provided some clarity about where the Democratic and Republican presidential races stand heading toward Super Tuesday.</itunes:subtitle>
-			<itunes:summary>Last weekend’s election results from Nevada and South Carolina were not entirely surprising, but they provided some clarity about where the Democratic and Republican presidential races stand heading toward Super Tuesday. Our elections podcast team uses the betting market odds to play a round of “buy/sell/hold” and gauge who we think is likely to prevail and why.</itunes:summary>
-			<itunes:title>Elections Podcast: A Round Of Candidate Buy/Sell/Hold</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>A Round Of Buy/Sell/Hold</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20334,13 +20392,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: Scalia, South Carolina And Nevada</title>
+			<title>Enter The SCOTUS</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>The death of Justice Antonin Scalia has made the Supreme Court a key issue in the 2016 election and in President Obama’s last term. Our elections podcast team discusses how the candidates are reacting to the news and what to expect from the upcoming contests in Nevada and South Carolina.</description>
-			<itunes:subtitle>The death of Justice Antonin Scalia has made the Supreme Court a key issue in the 2016 election and in President Obama’s last term.</itunes:subtitle>
-			<itunes:summary>The death of Justice Antonin Scalia has made the Supreme Court a key issue in the 2016 election and in President Obama’s last term. Our elections podcast team discusses how the candidates are reacting to the news and what to expect from the upcoming contests in Nevada and South Carolina.</itunes:summary>
-			<itunes:title>Elections Podcast: Scalia, South Carolina And Nevada</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Enter The SCOTUS</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20363,13 +20421,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: The New Hampshire Results</title>
+			<title>Quick Reaction: New Hampshire Results</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>After watching the New Hampshire primary vote trickle in Tuesday night, our elections podcast team gathered to talk about the results. How will Bernie Sanders’s and Donald Trump’s victories affect the Democratic and Republican races? And what can the GOP “establishment” candidates do now?</description>
-			<itunes:subtitle>After watching the New Hampshire primary vote trickle in Tuesday night, our elections podcast team gathered to talk about the results. How will Bernie Sanders’s and Donald Trump’s victories affect the races?</itunes:subtitle>
-			<itunes:summary>After watching the New Hampshire primary vote trickle in Tuesday night, our elections podcast team gathered to talk about the results. How will Bernie Sanders’s and Donald Trump’s victories affect the Democratic and Republican races? And what can the GOP “establishment” candidates do now?</itunes:summary>
-			<itunes:title>Elections Podcast: The New Hampshire Results</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Quick Reaction: New Hampshire Results</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20392,13 +20450,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: New Hampshire’s Turn</title>
+			<title>New Hampshire’s Turn</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>From the Airport Diner outside of Manchester, New Hampshire, our elections podcast team discusses the final days of campaigning in the Granite State and what to expect from Tuesday’s primary vote.</description>
-			<itunes:subtitle>From the Airport Diner outside of Manchester, New Hampshire, our elections podcast team discusses the final days of campaigning in the Granite State and what to expect from Tuesday’s primary vote.</itunes:subtitle>
-			<itunes:summary>From the Airport Diner outside of Manchester, New Hampshire, our elections podcast team discusses the final days of campaigning in the Granite State and what to expect from Tuesday’s primary vote.</itunes:summary>
-			<itunes:title>Elections Podcast: New Hampshire’s Turn</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>New Hampshire’s Turn</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20421,13 +20479,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Why The Dean Scream Sounded So Different On TV</title>
+			<title>DOC: The Real Dean Scream</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>ESPN Films and FiveThirtyEight podcasts have teamed up to tell the story of Howard Dean’s scream — the first in a series of stories re-examining moments in political history you thought you knew well.</description>
-			<itunes:subtitle>ESPN Films and FiveThirtyEight podcasts have teamed up to tell the story of Howard Dean’s scream — the first in a series of stories re-examining moments in political history you thought you knew well.</itunes:subtitle>
-			<itunes:summary>ESPN Films and FiveThirtyEight podcasts have teamed up to tell the story of Howard Dean’s scream — the first in a series of stories re-examining moments in political history you thought you knew well.</itunes:summary>
-			<itunes:title>Why The Dean Scream Sounded So Different On TV</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>DOC: The Real Dean Scream</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20447,16 +20505,45 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 			<itunes:keywords><![CDATA[null]]></itunes:keywords>
 			<guid isPermaLink="false">https://fivethirtyeight.com/features/why-the-dean-scream-sounded-so-different-on-tv/</guid>
 		</item>
+
+		<item> 
+			
+			<title>Quick Reaction: Iowa Results</title>
+			
+			<itunes:author>ESPN</itunes:author>
+			<description>Audio from a video session Nate, Clare, and Harry recorded late Monday night after a very interesting set of results in the Iowa caucuses.</description>
+			<itunes:subtitle>Audio from a video session Nate, Clare, and Harry recorded late Monday night after a very interesting set of results in the Iowa caucuses.</itunes:subtitle>
+			<itunes:summary>Audio from a video session Nate, Clare, and Harry recorded late Monday night after a very interesting set of results in the Iowa caucuses.</itunes:summary>
+			<itunes:title>Quick Reaction: Iowa Results</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+
+			
+			<enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2730793862.mp3" length="0" type="audio/mp3" />
+			
+			
+			<pubDate><![CDATA[Tue, 2 Feb 2016 00:00:00 PDT]]></pubDate>
+			
+			<category><![CDATA[News]]></category>
+			<!--
+			<itunes:category text="News">
+				<itunes:category text="Sports" />
+			</itunes:category>
+			-->
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration><![CDATA[16:27]]></itunes:duration>
+			<itunes:keywords><![CDATA[null]]></itunes:keywords>
+			<guid isPermaLink="false">https://espndeportes.espn.com/radio/play/_/id/14696354</guid>
+		</item>
 		
 		<item>
 			
-			<title>Elections Podcast: Your Guide To The Iowa Caucuses</title>
+			<title>Your Caucus Day Guide</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>It’s Iowa caucuses day! In our elections podcast we break down the latest polling and news from Iowa, explain how caucusing works, and answer some listener mail.</description>
-			<itunes:subtitle>It’s Iowa caucuses day! In our elections podcast we break down the latest polling and news from Iowa, explain how caucusing works, and answer some listener mail.</itunes:subtitle>
-			<itunes:summary>It’s Iowa caucuses day! In our elections podcast we break down the latest polling and news from Iowa, explain how caucusing works, and answer some listener mail.</itunes:summary>
-			<itunes:title>Elections Podcast: Your Guide To The Iowa Caucuses</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Your Caucus Day Guide</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20479,13 +20566,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: Special Friday Check-In</title>
+			<title>Friday Special: Iowa</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>When we launched our elections podcast this week, we said we’d be back Friday if there were interesting developments on the campaign. Here we are!</description>
-			<itunes:subtitle>When we launched our elections podcast this week, we said we’d be back Friday if there were interesting developments on the campaign. Here we are!</itunes:subtitle>
-			<itunes:summary>When we launched our elections podcast this week, we said we’d be back Friday if there were interesting developments on the campaign. Here we are!</itunes:summary>
-			<itunes:title>Elections Podcast: Special Friday Check-In</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Friday Special: Iowa</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20508,13 +20595,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item>
 			
-			<title>Elections Podcast: One Week To Iowa</title>
+			<title>One Week to Iowa</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>The FiveThirtyEight politics team discusses the latest in the 2016 election, tracking the polls, issues, voters and “game changers” week to week.</description>
-			<itunes:subtitle>The FiveThirtyEight politics team discusses the latest in the 2016 election, tracking the polls, issues, voters and “game changers” week to week.</itunes:subtitle>
-			<itunes:summary>The FiveThirtyEight politics team discusses the latest in the 2016 election, tracking the polls, issues, voters and “game changers” week to week.</itunes:summary>
-			<itunes:title>Elections Podcast: One Week To Iowa</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>One Week to Iowa</itunes:title>
 			<itunes:episodeType>full</itunes:episodeType>
 
 			
@@ -20537,13 +20624,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 		
 		<item> 
 			
-			<title>Introducing FiveThirtyEight’s New Elections Podcast</title>
+			<title>Welcome to FiveThirtyEight Elections</title>
 			
 			<itunes:author>ESPN</itunes:author>
-			<description>We’re thrilled to officially launch our 2016 election podcast, which after extensive market research and six-figure consulting fees we’ve decided to call “FiveThirtyEight Elections.”</description>
-			<itunes:subtitle>We’re thrilled to officially launch our 2016 election podcast, which after extensive market research and six-figure consulting fees we’ve decided to call “FiveThirtyEight Elections.”</itunes:subtitle>
-			<itunes:summary>We’re thrilled to officially launch our 2016 election podcast, which after extensive market research and six-figure consulting fees we’ve decided to call “FiveThirtyEight Elections.”</itunes:summary>
-			<itunes:title>Introducing FiveThirtyEight’s New Elections Podcast</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:title>Welcome to FiveThirtyEight Elections</itunes:title>
 			<itunes:episodeType>bonus</itunes:episodeType>
 
 			
